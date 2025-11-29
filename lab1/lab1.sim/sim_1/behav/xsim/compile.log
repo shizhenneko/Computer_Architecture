@@ -1,2 +1,27 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/lab1/lab1.srcs/sim_1/imports/new/tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simple_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2458] undeclared symbol data_sram_we, assumed default net type wire [C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/cpu.v:85]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/decoders.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_2_4
+INFO: [VRFC 10-311] analyzing module decoder_4_16
+INFO: [VRFC 10-311] analyzing module decoder_5_32
+INFO: [VRFC 10-311] analyzing module decoder_6_64
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/ex_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ex_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/id_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module id_stage
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'id_pc' is not allowed [C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/id_stage.v:48]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/if_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module if_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/mem_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/multi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multi
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/simple_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simple_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/wb_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wb_stage
