@@ -69,19 +69,8 @@ verilog xil_defaultlib  --include "../../../../lab1.ip_user_files/ipstatic/hdl" 
 "../../../../lab1.srcs/sources_1/ip/mr_bram/sim/mr_bram.v" \
 "../../../../lab1.srcs/sources_1/ip/clk_pll/clk_pll_clk_wiz.v" \
 "../../../../lab1.srcs/sources_1/ip/clk_pll/clk_pll.v" \
-"../../../../../code_for_lab_1/adder.v" \
 "../../../../lab1.srcs/sources_1/imports/new/checker_wrapper.v" \
-"../../../../../code_for_lab_1/cpu.v" \
 "../../../../lab1.srcs/sources_1/new/cpu_inst_rom.v" \
-"../../../../../code_for_lab_1/decoders.v" \
-"../../../../../code_for_lab_1/ex_stage.v" \
-"../../../../../code_for_lab_1/id_stage.v" \
-"../../../../../code_for_lab_1/if_stage.v" \
-"../../../../../code_for_lab_1/mem_stage.v" \
-"../../../../../code_for_lab_1/multi.v" \
-"../../../../../code_for_lab_1/reg_file.v" \
-"../../../../../code_for_lab_1/simple_alu.v" \
-"../../../../../code_for_lab_1/wb_stage.v" \
 
 sv xil_defaultlib  --include "../../../../lab1.ip_user_files/ipstatic/hdl" --include "../../../../lab1.srcs/sources_1/ip/clk_pll" --include "../../../../lab1.srcs/sources_1/ip/ma_river_core_0/imports/super" \
 "../../../../lab1.srcs/sources_1/new/cpu_checker.sv" \

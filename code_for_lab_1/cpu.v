@@ -17,7 +17,7 @@ module cpu(
     output wire [31:0] debug_wb_pc,
     output wire [3:0] debug_wb_rf_wen,
     output wire [4:0] debug_wb_rf_wnum,
-    output wire [31:0] debug_wb_rf_wdata
+    output wire [31:0] debug_wb_rf_wdata,
 );
     // tie-offs for unused instruction sram write interface
     assign inst_sram_we    = 4'b0000;

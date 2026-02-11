@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 /* Choose test case id */
-`define TESTID 2        // test case 0
+`define TESTID 2     // test case 0
 //`define     TESTID      1        // test case 1
 //`define     TESTID      2        // test case 2
 

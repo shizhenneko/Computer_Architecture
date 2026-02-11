@@ -31,21 +31,6 @@ WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for
 WARNING: [VRFC 10-5021] port 'aclk2x' is not connected on this instance [/wrk/2019.2/continuous/2019_11_06_2708876/packages/customer/vivado/data/ip/xilinx/axi_crossbar_v2_1/hdl/axi_crossbar_v2_1_vl_rfs.v:3103]
 Completed static elaboration
 Starting simulation data flow analysis
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/cpu.v" Line 1. Module cpu doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/if_stage.v" Line 1. Module if_stage doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/id_stage.v" Line 1. Module id_stage doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/decoders.v" Line 40. Module decoder_6_64 doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/decoders.v" Line 14. Module decoder_4_16 doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/decoders.v" Line 1. Module decoder_2_4 doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/decoders.v" Line 27. Module decoder_5_32 doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/reg_file.v" Line 1. Module reg_file doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/ex_stage.v" Line 1. Module ex_stage doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/simple_alu.v" Line 1. Module simple_alu doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/adder.v" Line 1. Module simple_adder doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/adder.v" Line 1. Module simple_adder doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/multi.v" Line 4. Module multi doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/mem_stage.v" Line 1. Module mem_stage doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/86159/Desktop/Computer_Architecture/code_for_lab_1/wb_stage.v" Line 1. Module wb_stage doesn't have a timescale but at least one module in design has a timescale.
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
 Compiling module unisims_ver.IBUF
